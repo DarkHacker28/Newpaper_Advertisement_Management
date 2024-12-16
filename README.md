@@ -49,7 +49,7 @@ Steps
 
 Clone the repository:
 
-git clone https://github.com/your-username/newspaper-ad-mgmt.git
+git clone https://github.com/DarkHacker28/Newpaper_Advertisement_Management
 
 Open the project in your preferred IDE (e.g., Visual Studio).
 
